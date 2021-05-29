@@ -9,6 +9,6 @@ Postdoctoral scholar<br/>
 [Github](https://github.com/lch14forerver) | [Twitter](https://twitter.com/li_chenhao) | [Google Scholar](https://https://scholar.google.com.sg/citations?user=iMwrad0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-1182-6804)
 
  - Bioinformatician with a "gut feeling"
- - Spend 80% of time fixing bugs and 20% of time writing them
+ - Spend 80% of my time fixing bugs and the other 20% writing them
 
  
