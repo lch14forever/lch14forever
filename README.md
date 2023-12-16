@@ -1,14 +1,20 @@
-### Chenhao Li (李陈浩) 👋
+<h1 align="center">Hi 👋, I'm Chenhao Li (李陈浩)</h1>
 
-Postdoctoral scholar<br/>
-[Massachusetts General Hospital](https://ccib.mgh.harvard.edu/)<br/>
-[Broad Institute](https://www.broadinstitute.org/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=lch14forever&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif">
+</a>
 
 [Github](https://github.com/lch14forever) | [Twitter](https://twitter.com/li_chenhao) | [Google Scholar](https://scholar.google.com.sg/citations?user=iMwrad0AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-1182-6804)
 
- - Bioinformatician with a "gut feeling"
- - Spend 80% of my time fixing bugs and the other 20% writing them
 
- 
+
+- 🔍 A postdoc at Massachusetts General Hospital and Broad Institute
+
+- 🧑🏻‍💻 A computational biologist working with high-throughput sequencing data
+
+- 🧫 Study the gut microbiome and its interactions with the host
+
+- ❓ Interested in the uncharacterized functional space of the gut microbes
+
+- ❓ Interested in the spatial-temporal dynamics of the gut microbes
+
